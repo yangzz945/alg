@@ -1,7 +1,7 @@
 package com.yyh.alg;
 
 /**
- * Created by youku on 2018/3/21.
+ * Created by yyh on 2018/3/21.
  */
 public class Sqrt {
     public static int sqrt(int n) {

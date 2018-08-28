@@ -3,7 +3,7 @@ package com.yyh.alg;
 import java.util.Arrays;
 
 /**
- * Created by youku on 2018/3/21.
+ * Created by yyh on 2018/3/21.
  */
 public class BinarySearch {
 

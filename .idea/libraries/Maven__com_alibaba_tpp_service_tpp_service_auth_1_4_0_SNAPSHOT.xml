@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.tpp.service:tpp-service-auth:1.4.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/tpp/service/tpp-service-auth/1.4.0-SNAPSHOT/tpp-service-auth-1.4.0-20180105.035145-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/tpp/service/tpp-service-auth/1.4.0-SNAPSHOT/tpp-service-auth-1.4.0-20180105.035145-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/tpp/service/tpp-service-auth/1.4.0-SNAPSHOT/tpp-service-auth-1.4.0-20180105.035145-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
