@@ -36,11 +36,11 @@
             <version>1.8.0</version>
         </dependency>
 
-        <dependency>
+        <!--<dependency>
             <groupId>com.youku.megaprofile</groupId>
             <artifactId>mega-profile-platform-client</artifactId>
             <version>1.2.1</version>
-        </dependency>
+        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
         <dependency>
@@ -50,10 +50,36 @@
         </dependency>
 
         <dependency>
-            <groupId>com.alibaba.tpp.service</groupId>
-            <artifactId>tpp-service-auth</artifactId>
-            <version>1.4.0-SNAPSHOT</version>
+            <groupId>com.esotericsoftware</groupId>
+            <artifactId>kryo</artifactId>
+            <version>5.0.0-RC1</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.49</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-math3</artifactId>
+            <version>3.6</version>
+
+        </dependency>
+
+        <dependency>
+            <groupId>org.jblas</groupId>
+            <artifactId>jblas</artifactId>
+            <version>1.2.4</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.la4j</groupId>
+            <artifactId>la4j</artifactId>
+            <version>0.6.0</version>
+        </dependency>
+
+
 
     </dependencies>
 
