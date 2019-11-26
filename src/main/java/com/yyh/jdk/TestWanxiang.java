@@ -14,4 +14,15 @@ package com.yyh.jdk;
  */
 public class TestWanxiang {
 
+    public static String geneUrl(String url) {
+        url = "124";
+        return "";
+    }
+
+    public static void main(String[] args) {
+        String str = "";
+        geneUrl(str);
+        System.out.println(str);
+    }
+
 }

@@ -2,44 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b7c2e3-faa6-4c8e-ab04-5b804e147d0a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jblas_jblas_1_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/ByteBufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/JSONTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/StopWatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/kryo/KryoSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/kryo/Msg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/kryo/Serializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_tpp_service_tpp_service_auth_1_4_0_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_taobao_middleware_logger_api_0_1_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_youku_megaprofile_mega_profile_platform_client_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_youku_megaprofile_mega_profile_platform_common_base_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_youku_megaprofile_mega_profile_platform_remote_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_4_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/apns.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/alg/HelloTensorFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/alg/ToStringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/gzip/GzipApache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestGzip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/FloatsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/ListRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/MatrixUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/ParalStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestSynchronousQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestWithoutVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/Trace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/matrix/SparseMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yyh/matrix/TableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/alg.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/LocalDateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/LocalDateTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/pojo/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/pojo/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/FieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/FieldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/JSONTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/JSONTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestWanxiang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestWanxiang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/alg-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/alg-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yyh/jdk/LocalDateTimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yyh/jdk/LocalDateTimeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yyh/jdk/TestReentrantLock$Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yyh/jdk/TestReentrantLock$Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yyh/jdk/pojo/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yyh/jdk/pojo/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yyh/jdk/FieldTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yyh/jdk/FieldTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yyh/jdk/TestWanxiang.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yyh/jdk/TestWanxiang.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="alg.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,6 +44,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/alg$SparseMatrixTest.ic" NAME="SparseMatrixTest Coverage Results" MODIFIED="1540093860370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yyh.matrix.*</FILTER>
+    </SUITE>
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -72,45 +71,74 @@
     <session id="-165135992">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="33" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.107" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.118" value="1" />
+          <entry key="project.open.time.121" value="1" />
+          <entry key="project.open.time.122" value="1" />
+          <entry key="project.open.time.138" value="2" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.159" value="1" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="2" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="MF" value="2" />
-          <entry key="class" value="106" />
-          <entry key="java" value="38" />
-          <entry key="properties" value="2" />
-          <entry key="txt" value="2" />
-          <entry key="xml" value="7" />
+          <entry key="MF" value="3" />
+          <entry key="class" value="172" />
+          <entry key="java" value="154" />
+          <entry key="properties" value="3" />
+          <entry key="txt" value="7" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="106" />
-          <entry key="JAVA" value="38" />
-          <entry key="Manifest" value="2" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="2" />
-          <entry key="XML" value="7" />
+          <entry key="CLASS" value="172" />
+          <entry key="JAVA" value="154" />
+          <entry key="Manifest" value="3" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2018" />
-          <entry key="xml" value="39" />
+          <entry key="java" value="10240" />
+          <entry key="xml" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2018" />
-          <entry key="XML" value="39" />
+          <entry key="JAVA" value="10240" />
+          <entry key="XML" value="63" />
         </counts>
       </usages-collector>
     </session>
@@ -121,91 +149,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/ComplexDouble.class">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/util/Functions.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/Benchmark.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/BenchmarkResult.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/JavaDoubleMultiplicationBenchmark.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-494">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/Main.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1291">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/NativeDoubleMultiplicationBenchmark.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/NativeFloatMultiplicationBenchmark.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/Timer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="1900">
+              <caret line="100" column="24" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/alg/HelloTensorFlow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9880">
+              <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/Session.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2679">
+              <caret line="158" column="31" selection-start-line="158" selection-start-column="31" selection-end-line="158" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/OperationBuilder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4009">
+              <caret line="215" column="28" selection-start-line="215" selection-start-column="28" selection-end-line="215" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/Tensor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/DataType.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/Graph.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/TensorFlow.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/NativeLibrary.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -223,6 +254,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>zones</find>
+      <find>keySet</find>
+      <find>entrySet</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -237,7 +270,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/alg/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/alg/sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/UUIDTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/FieldTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/pojo/MapPojo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestMerge.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestRandom.java" />
@@ -245,7 +277,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/pojo/Father.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/pojo/Son.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/LockTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestWanxiang.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/tpp/TestAuth.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestReentrantLock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestArrayList.java" />
@@ -256,9 +287,33 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/kryo/Msg.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/kryo/KryoSerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/StringReverse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/JSONTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/StopWatchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/matrix/SparseMatrixTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestWanxiang.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/matrix/TableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/matrix/SparseTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/FloatsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestSynchronousQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/Trace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestFlatMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/FieldTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/JSONTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/MatrixUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestHashMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TimeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/alg/ToStringBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/ListRotate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/ParalStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/gzip/GzipApache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestRead.java" />
+        <option value="$PROJECT_DIR$/data/apns.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestGzip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestVolatile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestWithoutVolatile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/jdk/VolatileExample.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyh/alg/HelloTensorFlow.java" />
       </list>
     </option>
   </component>
@@ -289,9 +344,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="63" />
     <option name="width" value="1440" />
-    <option name="height" value="823" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -299,67 +354,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
-              <item name="alg" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
-              <item name="alg" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-            </path>
-            <path>
-              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
-              <item name="alg" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
-              <item name="alg" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-              <item name="jblas" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
-              <item name="alg" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-              <item name="jblas" type="1f31426a:PackageElementNode" />
-              <item name="benchmark" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
-              <item name="alg" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-              <item name="jblas" type="1f31426a:PackageElementNode" />
-              <item name="exceptions" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
-              <item name="alg" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-              <item name="jblas" type="1f31426a:PackageElementNode" />
-              <item name="ranges" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
-              <item name="alg" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-              <item name="jblas" type="1f31426a:PackageElementNode" />
-              <item name="util" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -374,180 +369,94 @@
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yyh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yyh" type="462c0819:PsiDirectoryNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: org.tensorflow:libtensorflow:1.13.1" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.tensorflow:libtensorflow:1.13.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="libtensorflow-1.13.1.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="amd64" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-              <item name="amd64" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-              <item name="i386" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-              <item name="ppc64le" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="x86_64" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Windows" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Windows" type="462c0819:PsiDirectoryNode" />
-              <item name="amd64" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Windows" type="462c0819:PsiDirectoryNode" />
-              <item name="x86" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.tensorflow:libtensorflow:1.13.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="libtensorflow-1.13.1.jar" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.tensorflow:libtensorflow:1.13.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="libtensorflow-1.13.1.jar" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jblas" type="462c0819:PsiDirectoryNode" />
+              <item name="libtensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jblas" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.tensorflow:libtensorflow:1.13.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="libtensorflow-1.13.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jblas" type="462c0819:PsiDirectoryNode" />
-              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.tensorflow:libtensorflow:1.13.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="libtensorflow-1.13.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="Graph" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jblas" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.tensorflow:libtensorflow:1.13.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="libtensorflow-1.13.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="Server" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jblas" type="462c0819:PsiDirectoryNode" />
-              <item name="ranges" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jblas" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.jblas:jblas:1.2.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jblas-1.2.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jblas" type="462c0819:PsiDirectoryNode" />
-              <item name="NativeBlasLibraryLoader" type="1a9f42e2:ClassTreeNode" />
+              <item name="Maven: org.tensorflow:libtensorflow:1.13.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="libtensorflow-1.13.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="Tensor" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
@@ -557,16 +466,31 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alg" type="58d84e3e:PackageViewProjectNode" />
+              <item name="alg" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540092119805" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570616412545" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -580,7 +504,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StopWatchTest">
+  <component name="RunManager" selected="Application.HelloTensorFlow">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -695,8 +619,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByteBufferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yyh.jdk.ByteBufferTest" />
+    <configuration name="HelloTensorFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.alg.HelloTensorFlow" />
+      <module name="alg" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=$USER_HOME$/Downloads/libtensorflow_jni-cpu-darwin-x86_64-1.13.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyh.alg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGzip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.gzip.TestGzip" />
+      <module name="alg" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyh.gzip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.jdk.TestVolatile" />
       <module name="alg" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -709,8 +661,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JSONTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yyh.jdk.JSONTest" />
+    <configuration name="TestWithoutVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.jdk.TestWithoutVolatile" />
       <module name="alg" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -723,36 +675,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KryoSerializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yyh.kryo.KryoSerializer" />
-      <module name="alg" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yyh.kryo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StopWatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yyh.jdk.StopWatchTest" />
-      <module name="alg" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yyh.jdk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yyh.jdk.StringReverse" />
+    <configuration name="VolatileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyh.jdk.VolatileExample" />
       <module name="alg" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -840,19 +764,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ByteBufferTest" />
-      <item itemvalue="Application.KryoSerializer" />
-      <item itemvalue="Application.StringReverse" />
-      <item itemvalue="Application.JSONTest" />
-      <item itemvalue="Application.StopWatchTest" />
+      <item itemvalue="Application.TestGzip" />
+      <item itemvalue="Application.TestVolatile" />
+      <item itemvalue="Application.TestWithoutVolatile" />
+      <item itemvalue="Application.VolatileExample" />
+      <item itemvalue="Application.HelloTensorFlow" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StopWatchTest" />
-        <item itemvalue="Application.JSONTest" />
-        <item itemvalue="Application.StringReverse" />
-        <item itemvalue="Application.KryoSerializer" />
-        <item itemvalue="Application.ByteBufferTest" />
+        <item itemvalue="Application.HelloTensorFlow" />
+        <item itemvalue="Application.VolatileExample" />
+        <item itemvalue="Application.TestWithoutVolatile" />
+        <item itemvalue="Application.TestVolatile" />
+        <item itemvalue="Application.TestGzip" />
       </list>
     </recent_temporary>
   </component>
@@ -880,18 +804,56 @@
       <workItem from="1539565688943" duration="4449000" />
       <workItem from="1539653052182" duration="3262000" />
       <workItem from="1539738114194" duration="3453000" />
-      <workItem from="1539912435151" duration="8577000" />
+      <workItem from="1539912435151" duration="17679000" />
+      <workItem from="1540291340562" duration="597000" />
+      <workItem from="1540307124806" duration="5354000" />
+      <workItem from="1541130683683" duration="811000" />
+      <workItem from="1541380362462" duration="8068000" />
+      <workItem from="1542502213870" duration="5354000" />
+      <workItem from="1542675980901" duration="4616000" />
+      <workItem from="1543366678608" duration="568000" />
+      <workItem from="1543396236150" duration="3230000" />
+      <workItem from="1543886204999" duration="582000" />
+      <workItem from="1544412135100" duration="5412000" />
+      <workItem from="1545120127176" duration="1668000" />
+      <workItem from="1545182138258" duration="564000" />
+      <workItem from="1545287321553" duration="2939000" />
+      <workItem from="1545891090320" duration="3184000" />
+      <workItem from="1546936781049" duration="529000" />
+      <workItem from="1547615200432" duration="883000" />
+      <workItem from="1547875798971" duration="557000" />
+      <workItem from="1548168126016" duration="423000" />
+      <workItem from="1548911395277" duration="6240000" />
+      <workItem from="1552352146408" duration="481000" />
+      <workItem from="1553851176097" duration="342000" />
+      <workItem from="1554905098299" duration="1119000" />
+      <workItem from="1555681593585" duration="361000" />
+      <workItem from="1556682608579" duration="1691000" />
+      <workItem from="1558571981395" duration="449000" />
+      <workItem from="1558917631137" duration="344000" />
+      <workItem from="1559782325891" duration="3441000" />
+      <workItem from="1560215864235" duration="474000" />
+      <workItem from="1560300414588" duration="2106000" />
+      <workItem from="1560477877084" duration="1117000" />
+      <workItem from="1561347356616" duration="770000" />
+      <workItem from="1563256706424" duration="538000" />
+      <workItem from="1563863827706" duration="419000" />
+      <workItem from="1563974436891" duration="588000" />
+      <workItem from="1564922418915" duration="5703000" />
+      <workItem from="1565690216880" duration="462000" />
+      <workItem from="1569747573076" duration="1240000" />
+      <workItem from="1570624873464" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82446000" />
+    <option name="totallyTimeSpent" value="164797000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="0" y="63" width="1440" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2846924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36123034" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -900,26 +862,29 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21887825" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34392112" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45421687" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36039603" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37796375" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36831683" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32744566" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32574257" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Designer" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.11516452" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49944994" visible="true" weight="0.1037196" />
       <window_info anchor="right" id="Bean Validation" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50055003" side_tool="true" visible="true" weight="0.0857295" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -970,15 +935,123 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/JSONTest.java</url>
-          <line>34</line>
+          <line>110</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/JSONTest.java</url>
-          <line>29</line>
+          <line>75</line>
           <properties />
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/FloatsTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestSynchronousQueue.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestSynchronousQueue.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestSynchronousQueue.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1127</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1046</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1049</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1048</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java</url>
+          <line>457</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestSynchronousQueue.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestFlatMap.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/FieldTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/ListRotate.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestGzip.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestGzip.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestRead.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yyh/alg/HelloTensorFlow.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/NativeLibrary.class</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-defaults>
@@ -987,15 +1060,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="ex" />
-        <watch expression="aqs" language="JAVA" custom="" />
-        <watch expression="obj.get(aqs)" language="JAVA" custom="" />
-        <watch expression="threadField.get(nodeObj)" language="JAVA" custom="" />
-        <watch expression="waitStatusField.get(nodeObj)" language="JAVA" custom="" />
-        <watch expression="threadField" language="JAVA" custom="" />
-        <watch expression="threadField.get(nodeObj)" language="JAVA" custom="" />
-        <watch expression="nodeObj" language="JAVA" custom="" />
-        <watch expression="result.get(0)" language="JAVA" />
+        <watch expression="pos" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1006,6 +1071,11 @@
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
+        <expression-string>pos</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>result.get(0)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -1013,366 +1083,367 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/DecompositionSolver.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="1703">
+          <caret line="798" column="38" lean-forward="true" selection-start-line="798" selection-start-column="38" selection-end-line="798" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/DefaultFieldMatrixChangingVisitor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/DiagonalMatrix.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3136">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/EigenDecomposition.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/FieldDecompositionSolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/FieldMatrix.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/MatrixUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4261">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/NonPositiveDefiniteMatrixException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/util/OpenIntToDoubleHashMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2300">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-          <folding>
-            <element signature="e#1131#1132#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/SparseRealVector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/SymmLQ.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/TriDiagonalTransformer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/SparseRealMatrix.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/PreconditionedIterativeLinearSolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/OpenMapRealVector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/OpenMapRealMatrix.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/ListRotate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="30" column="53" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/SparseFieldVector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6/commons-math3-3.6.jar!/org/apache/commons/math3/linear/SparseFieldMatrix.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/StopWatchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="65" selection-start-line="65" selection-end-line="66" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/util/Logger.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestWanxiang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-341">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="342">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/ranges/RangeUtils.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="14440">
+          <caret line="806" column="13" selection-start-line="806" selection-start-column="13" selection-end-line="806" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/META-INF/MANIFEST.MF">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="3154">
+          <caret line="232" column="5" selection-start-line="232" selection-start-column="5" selection-end-line="232" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/META-INF/maven/org.jblas/jblas/pom.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/META-INF/maven/org.jblas/jblas/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/LockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-859">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/Info.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Collector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="5852">
+          <caret line="338" column="8" selection-start-line="338" selection-start-column="8" selection-end-line="338" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/NativeBlas.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/ParalStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2726">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        <state relative-caret-position="1482">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/NativeBlasLibraryLoader.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestFlatMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="342">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
-            <element signature="e#0#2746#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/SimpleBlas.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3614">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/JavaBlas.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestMerge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/Geometry.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/DoubleStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10374">
+          <caret line="592" column="27" selection-start-line="592" selection-start-column="4" selection-end-line="592" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10849">
+          <caret line="600" column="22" selection-start-line="600" selection-start-column="22" selection-end-line="600" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7638">
+          <caret line="444" column="10" selection-start-line="444" selection-start-column="10" selection-end-line="444" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/Trace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/zip/GZIPInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar!/org/apache/commons/io/FileUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="1059" column="24" selection-start-line="1059" selection-start-column="18" selection-end-line="1059" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar!/org/apache/commons/io/output/ByteArrayOutputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/META-INF/NOTICE.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/compressors/gzip/GzipUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/compressors/gzip/GzipParameters.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/FloatMatrix.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/FloatFunction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/Eigen.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1470">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/DoubleMatrix.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-578">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/DoubleFunction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/Decompose.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/ConvertsToFloatMatrix.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/ConvertsToDoubleMatrix.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/ComplexFloatMatrix.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/compressors/gzip/GzipCompressorOutputStream.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/ComplexFloat.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/utils/IOUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/compressors/FileNameUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/gzip/GzipApache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/StringEscapeUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/text/translate/CharSequenceTranslator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.49/fastjson-1.2.49.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/gzip/TestGzip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/alg/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/alg/ToStringBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/TestWithoutVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.49/fastjson-1.2.49.jar!/com/alibaba/fastjson/parser/Feature.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/ComplexDoubleMatrix.class">
+    <entry file="file://$PROJECT_DIR$/data/test_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/apns-de.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/ComplexDouble.class">
+    <entry file="file://$PROJECT_DIR$/data/apns.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/util/Functions.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/jdk/VolatileExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/Benchmark.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/BenchmarkResult.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/JavaDoubleMultiplicationBenchmark.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-494">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/Main.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1291">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/NativeDoubleMultiplicationBenchmark.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/NativeFloatMultiplicationBenchmark.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jblas/jblas/1.2.4/jblas-1.2.4.jar!/org/jblas/benchmark/Timer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="171">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        <state relative-caret-position="1900">
+          <caret line="100" column="24" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9880">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/Session.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2679">
+          <caret line="158" column="31" selection-start-line="158" selection-start-column="31" selection-end-line="158" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/OperationBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4009">
+          <caret line="215" column="28" selection-start-line="215" selection-start-column="28" selection-end-line="215" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/Tensor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/DataType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/Graph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/TensorFlow.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.13.1/libtensorflow-1.13.1.jar!/org/tensorflow/NativeLibrary.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyh/alg/HelloTensorFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
