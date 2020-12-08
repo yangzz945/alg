@@ -11,7 +11,7 @@ public class LRUCache<K,V> extends LinkedHashMap<K,V> {
 
     private int cacheSize;
 
-    private LRUCache(int size) {
+    public LRUCache(int size) {
         super(size,0.75f,true);
         //this.size= size;
         this.cacheSize = size;
