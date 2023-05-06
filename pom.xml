@@ -228,6 +228,7 @@
             <version>2.56</version>
         </dependency>
 
+
         <dependency>
             <groupId>org.apache.rocketmq</groupId>
             <artifactId>rocketmq-tools</artifactId>
